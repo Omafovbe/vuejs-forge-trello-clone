@@ -14,6 +14,9 @@ dist-ssr
 coverage
 *.local
 
+# Kendo-UI Licence
+kendo-ui-license.txt 
+
 /cypress/videos/
 /cypress/screenshots/
 
